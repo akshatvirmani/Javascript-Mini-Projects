@@ -1,2 +1,2 @@
 # Javascript-Mini-Projects
-Five good mini projects using HTML,CSS, Javascript.
+Five Mini Games using Javascript.
