@@ -7,4 +7,4 @@ Five Mini Games using Javascript.
 
 ## Rock, Paper and Scissors
 
-## Rock, Paper and Scissors
+## To change color of all buttons
