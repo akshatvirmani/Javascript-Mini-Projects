@@ -6,3 +6,5 @@ Five Mini Games using Javascript.
 ## Cat Generator
 
 ## Rock, Paper and Scissors
+
+## Rock, Paper and Scissors
