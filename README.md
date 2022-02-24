@@ -9,4 +9,4 @@ Five Mini Games using Javascript.
 
 ## To change color of all buttons
 
-## Black Jack
+## Blackjack
