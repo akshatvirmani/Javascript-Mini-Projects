@@ -3,7 +3,7 @@ Five Mini Games using Javascript.
 
 ## 1. Your age in Days
 
-## Cat Generator
+## 2. Cat Generator
 
 ## Rock, Paper and Scissors
 
