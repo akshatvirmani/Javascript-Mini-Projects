@@ -7,6 +7,6 @@ Five Mini Games using Javascript.
 
 ## 3. Rock, Paper and Scissors
 
-## To change color of all buttons
+## 4. To change color of all buttons
 
 ## Blackjack
